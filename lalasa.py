@@ -4,4 +4,4 @@ reyansh
 my first
 second test
 3rd test
-tinkhu
+tikhu
